@@ -19,34 +19,34 @@ This work aims to estimate the 6-Degrees of Freedom Pose of an object using simp
 
 # Pose Feature Plot
 ## Feature Layer
-* Cored by Object: 
-* Cored by $R_x$: 
-* Cored by $R_y$: 
-* Cored by $R_z$: 
-* Cored by $t_x$: 
-* Cored by $t_y$: 
-* Cored by $t_z$: 
+* Cored by Object: [feature_object](pose_networks/resnet50_combined_loss/feature_layer/object.html)
+* Cored by $R_x$: [feature_rx](pose_networks/resnet50_combined_loss/feature_layer/roll.html)
+* Cored by $R_y$: [feature_ry](pose_networks/resnet50_combined_loss/feature_layer/pitch.html)
+* Cored by $R_z$: [feature_rz](pose_networks/resnet50_combined_loss/feature_layer/yaw.html)
+* Cored by $t_x$: [feature_tx](pose_networks/resnet50_combined_loss/feature_layer/tx.html)
+* Cored by $t_y$: [feature_ty](pose_networks/resnet50_combined_loss/feature_layer/ty.html)
+* Cored by $t_z$: [feature_tz](pose_networks/resnet50_combined_loss/feature_layer/tz.html)
 
 ## Rotation Branch Layer 1
-* Cored by Object: 
-* Cored by $R_x$: 
-* Cored by $R_y$: 
-* Cored by $R_z$: 
+* Cored by Object: [rot_dense1_object](pose_networks/resnet50_combined_loss/rot_dense1/object.html)
+* Cored by $R_x$: [rot_dense1_rx](pose_networks/resnet50_combined_loss/rot_dense1/roll.html)
+* Cored by $R_y$: [rot_dense1_ry](pose_networks/resnet50_combined_loss/rot_dense1/pitch.html)
+* Cored by $R_z$: [rot_dense1_rz](pose_networks/resnet50_combined_loss/rot_dense1/yaw.html)
 
 ## Rotation Branch Layer 2
-* Cored by Object: 
-* Cored by $R_x$: 
-* Cored by $R_y$: 
-* Cored by $R_z$: 
+* Cored by Object: [rot_dense2_object](pose_networks/resnet50_combined_loss/rot_dense2/object.html)
+* Cored by $R_x$: [rot_dense2_rx](pose_networks/resnet50_combined_loss/rot_dense2/roll.html)
+* Cored by $R_y$: [rot_dense2_ry](pose_networks/resnet50_combined_loss/rot_dense2/pitch.html)
+* Cored by $R_z$: [rot_dense2_rz](pose_networks/resnet50_combined_loss/rot_dense2/yaw.html)
 
 ## Translation Branch Layer 1
-* Cored by Object: 
-* Cored by $t_x$: 
-* Cored by $t_y$: 
-* Cored by $t_z$: 
+* Cored by Object: [t_dense1_object](pose_networks/resnet50_combined_loss/t_dense1/object.html)
+* Cored by $t_x$: [t_dense1_tx](pose_networks/resnet50_combined_loss/t_dense1/tx.html)
+* Cored by $t_y$: [t_dense1_ty](pose_networks/resnet50_combined_loss/t_dense1/ty.html)
+* Cored by $t_z$: [t_dense1_tz](pose_networks/resnet50_combined_loss/t_dense1/tz.html)
 
 ## Translation Branch Layer 2
-* Cored by Object: [t_dense2_object]()
-* Cored by $t_x$: 
-* Cored by $t_y$: 
-* Cored by $t_z$: 
+* Cored by Object: [t_dense2_object](pose_networks/resnet50_combined_loss/t_dense2/object.html)
+* Cored by $t_x$: [t_dense2_tx](pose_networks/resnet50_combined_loss/t_dense2/tx.html)
+* Cored by $t_y$: [t_dense2_ty](pose_networks/resnet50_combined_loss/t_dense2/ty.html)
+* Cored by $t_z$: [t_dense2_tz](pose_networks/resnet50_combined_loss/t_dense2/tz.html)
