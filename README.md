@@ -50,3 +50,22 @@ This work aims to estimate the 6-Degrees of Freedom Pose of an object using simp
 * Cored by $t_x$: [t_dense2_tx](pose_networks/resnet50_combined_loss/t_dense2/tx.html)
 * Cored by $t_y$: [t_dense2_ty](pose_networks/resnet50_combined_loss/t_dense2/ty.html)
 * Cored by $t_z$: [t_dense2_tz](pose_networks/resnet50_combined_loss/t_dense2/tz.html)
+
+# Citation
+To cite this work use the following bibtex:
+
+```
+@article{SOLER2023,
+  title={Modeling and Interpreting 6-D Object Pose Estimation},
+  author={},
+  journal={arXiv preprint arXiv:},
+  year={2023}
+}
+```
+# Acknowledgments
+
+# License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+
