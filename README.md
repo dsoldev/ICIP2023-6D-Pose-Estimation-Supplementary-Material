@@ -68,6 +68,8 @@ This study was financed in part by the Coordenação de Aperfeiçoamento de Pess
 Acknowledges to CNPq 465446/2014-0, FAPESP 14/50937-1, 15/22308-2 and the MCTI (law 8.248, PPI-Softex - TIC 13 - 01245.010222/2022-44).
 
 
+![alt text](docs/logos.jpg)
+
 # License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
