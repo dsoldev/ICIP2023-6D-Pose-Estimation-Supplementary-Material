@@ -58,11 +58,15 @@ To cite this work use the following bibtex:
 @article{SOLER2023,
   title={Modeling and Interpreting 6-D Object Pose Estimation},
   author={},
-  journal={arXiv preprint arXiv:},
+  journal={},
   year={2023}
 }
 ```
 # Acknowledgments
+This study was financed in part by the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior – Brasil (CAPES) – Finance Code 001.
+
+Acknowledges to CNPq 465446/2014-0, FAPESP 14/50937-1, 15/22308-2 and the MCTI (law 8.248, PPI-Softex - TIC 13 - 01245.010222/2022-44).
+
 
 # License
 
