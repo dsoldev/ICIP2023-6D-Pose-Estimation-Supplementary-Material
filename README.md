@@ -12,7 +12,7 @@ This work aims to estimate the 6-Degrees of Freedom Pose of an object using simp
 
 # Rotation Feature Plot
 * Color mapped by Type: [type](https://dsoldev.github.io/ICIP2023-6D-Pose-Estimation-Supplementary-Material/rot_networks/moved_tetrahedron_ResNet50/type.html)
-* Color mapped by $R_x$: [rx](https://dsoldev.github.io/ICIP2023-6D-Pose-Estimation-Supplementary-Material/rot_networks/moved_tetrahedron_ResNet50/r2.html)
+* Color mapped by R<sub>x</sub>: [rx](https://dsoldev.github.io/ICIP2023-6D-Pose-Estimation-Supplementary-Material/rot_networks/moved_tetrahedron_ResNet50/r2.html)
 * Color mapped by $R_z$: [rz](https://dsoldev.github.io/ICIP2023-6D-Pose-Estimation-Supplementary-Material/rot_networks/moved_tetrahedron_ResNet50/r1.html)
 * Color mapped by $cos(R_x)$: [crx](https://dsoldev.github.io/ICIP2023-6D-Pose-Estimation-Supplementary-Material/rot_networks/moved_tetrahedron_ResNet50/cos_r2.html)
 * Color mapped by $cos(R_z)$: [crz](https://dsoldev.github.io/ICIP2023-6D-Pose-Estimation-Supplementary-Material/rot_networks/moved_tetrahedron_ResNet50/cos_r1.html)
